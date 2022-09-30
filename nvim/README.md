@@ -28,7 +28,7 @@ sudo make install
 ## Install the config
 
 ```sh
-git clone https://github.com/codingtheanarchy/dotfiles.git ~/.config/nvim
+git clone https://github.com/codingtheanarchy/secret-sauce/tree/master/nvim ~/.config/nvim
 ```
 
 Open `nvim` and enter the following:
